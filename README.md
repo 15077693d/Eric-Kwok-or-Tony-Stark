@@ -6,11 +6,4 @@ This is a 7 faces classifier. It gets 91% accuracy in vaildation set!!!! Compute
 3. Face classification using Keras by custom CNN and VGGFace
 
 The 7 faces:
-0: "Tony Stark" 
-1: "Eric Kwok" 
-2: "Thor" 
-3: "Kam Kong" 
-4: "Brad Pitt" 
-5:"Eason Chan" 
-6:"Tzu chi" 
-7:"Oscar Yiu"
+Tony Stark,Eric Kwok,Thor,Kam Kong,Brad Pitt,Eason Chan,Tzu chi,Oscar Yiu
