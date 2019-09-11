@@ -1,5 +1,5 @@
 # Eric-Kwok-or-Tony-Stark-?
-This is a 7 faces classifier. It gets 91% accuracy in vaildation set!!!! Computer vision is amazing!!! 
+This is a 8 faces classifier. It gets 91% accuracy in vaildation set!!!! Computer vision is amazing!!! 
 
 1. Web Scraping in google image/instagram by Selenium 
 2. Data Selection by a custom program
